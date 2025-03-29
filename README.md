@@ -1,4 +1,5 @@
 # my-vue-project
+https://ntpv.github.io/test2/
 
 ## Project setup
 ```
